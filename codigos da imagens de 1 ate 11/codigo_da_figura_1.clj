@@ -1,0 +1,5 @@
+(+ 3 2) ;; => 5 (Soma)
+(- 5 3) ;; => 2 (Subtração)
+(* 4 2) ;; => 8 (Multiplicação)
+(/ 6 3) ;; => 2 (Divisão, retorna um racional se necessário)
+(mod 10 3) ;; => 1 (Resto da divisão)

@@ -1,0 +1,7 @@
+(= 2 2) ;; => true (Igualdade)
+(= 2 3) ;; => false (Desigualdade)
+(not= 2 3) ;; => true (diferente)
+(< 3 5) ;; => true (menor que)
+(> 5 3) ;; => true (maior que)
+(<= 4 4) ;; => true (menor ou igual a)
+(>= 5 5) ;; => true (maior ou igual a)
