@@ -1,0 +1,1 @@
+[#polimorfismo.gerenciador_escolar.Aluno{:nota1 2.7, :nota2 nil, :nota3 nil, :nota4 nil, :nome "vivian", :data-nascimento "04/04/2004", :matricula 202300016737, :serie "4"} #polimorfismo.gerenciador_escolar.Aluno{:nota1 2.7, :nota2 3.8, :nota3 9.0, :nota4 10.0, :nome "vivian", :data-nascimento "04/04/2004", :matricula 202300016737, :serie "4"}]
